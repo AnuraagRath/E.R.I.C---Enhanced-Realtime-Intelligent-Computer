@@ -12,7 +12,7 @@ Enhanced Realtime Intelligent Computer or simply E.R.I.C is a simple Assistant t
 # ERIC can do a lot of stuff like open any webpage
 ![open](/images/open.png)
 
-# Can also say Jokes
+# Can also tell you Jokes
 ![joke](/images/joke.png)
 
 Have fun. Would love it if you had recommendations and if you are able to improve him
