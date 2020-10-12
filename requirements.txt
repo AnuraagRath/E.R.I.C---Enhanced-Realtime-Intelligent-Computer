@@ -1,0 +1,9 @@
+requests==2.24.0
+wikipedia==1.4.0
+spotipy==2.15.0
+SpeechRecognition==3.8.1
+pyowm==3.0.0
+python_vlc==3.0.11115
+lxml==4.5.2
+youtube_dl==2020.9.6
+beautifulsoup4==4.9.3
