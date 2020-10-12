@@ -7,12 +7,15 @@ Enhanced Realtime Intelligent Computer or simply E.R.I.C is a simple Assistant t
 * Clone the repo and first install all the required python modules and libraries using requirements.txt
 * Run the Python app
 * When you say 'jobs', ERIC will list all the jobs he is obligated to perform
+
 ![jobs](/images/jobs.png)
 
 # ERIC can do a lot of stuff like open any webpage
+
 ![open](/images/open.png)
 
 # Can also tell you Jokes
+
 ![joke](/images/joke.png)
 
 Have fun. Would love it if you had recommendations and if you are able to improve him
